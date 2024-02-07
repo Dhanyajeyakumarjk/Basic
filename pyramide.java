@@ -1,21 +1,21 @@
-public class pyramide
+/*public class pyramide
 {
     public static void main (String [] args)
     {
         char ch='a';
         for(int i=1; i<=5; i++)
         {
-            for(int j=1; j<=5; j++)
+            for(int j=1; j<=; j++)
             {
-                System.out.print(ch);
+                System.out.print(i+" ");
                 ch++;
             }
             System.out.println();
         }
     }
-}
+}*/
 //number
-/*public class pyramide
+public class pyramide
 {
     public static void main (String [] args)
     {
@@ -30,4 +30,4 @@ public class pyramide
             System.out.println();
         }
     }
-}*/
+}
