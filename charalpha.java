@@ -12,11 +12,11 @@ public class charalpha {
     
         if(alpha>='a'&& alpha<='z'||alpha>='A'&& alpha<='Z')
         {
-            System.out.println("entered number is alphabet");
+            System.out.println("entered value is alphabet");
         }
     else if(alpha>='0' && alpha<='9')
     {
-        System.out.println("entered number is a number");
+        System.out.println("entered value is a number");
     }
     else
     {
