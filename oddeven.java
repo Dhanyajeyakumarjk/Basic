@@ -1,7 +1,9 @@
 import java.util.*;
-public class oddeven{
-    public static void main(String[] args){
-        int a=22;
+public class oddeven
+{
+    public static void main(String[] args)
+    {
+        int a=44;
         //Scanner s=new Scanner(System.in);
         System.out.println("Enter a number:"+a);
         //int a=s.nextInt();
@@ -12,8 +14,6 @@ public class oddeven{
         else{
             System.out.println("number is odd ");
         }
-
-
     }
     
 }
