@@ -13,7 +13,7 @@ public class leapyear
         }
         else
         {
-            System.out.println("Not leap year");
+            System.out.println("Nota leap year");
         }
     }
 }
